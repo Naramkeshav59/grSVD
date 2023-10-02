@@ -6,4 +6,4 @@
   - Keshav Naram(200020029)
   - Kanishq Verma(200020021)
 
-*All the results are shown in the jyputer notebook in this repository*
+*All the results are shown in the jupyter notebook in this repository*
