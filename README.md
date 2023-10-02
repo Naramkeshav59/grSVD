@@ -1,5 +1,7 @@
 # Generalization of Randomized Singular Value Decomposition
 
+This is a project done as a coursework of  "Mathematics for Datascience" course.
+
 ## Team Members:-
   - Nirmit Arora(200010034)
   - Ninad Milind Khati(200020030)
